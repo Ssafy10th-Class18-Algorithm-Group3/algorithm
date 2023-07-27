@@ -2,7 +2,7 @@
 #include <vector>
 #include <algorithm>
 using namespace std;
-// multi map 으로 구현해보기
+
 int main() {
 
 	int N, K;
