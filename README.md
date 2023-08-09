@@ -16,3 +16,6 @@
 - 2606 - [바이러스](https://www.acmicpc.net/problem/2606)
 - 1325 - [효율적인 해킹](https://www.acmicpc.net/problem/1325)
 
+#### 2023-08-16
+
+- **오프라인** - 22868 - [산책](https://www.acmicpc.net/problem/22868)
