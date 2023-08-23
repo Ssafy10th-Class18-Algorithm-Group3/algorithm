@@ -24,7 +24,12 @@
   
 - **오프라인** - 13164 - [행복유치원](https://www.acmicpc.net/problem/13164)
 
-#### 2023-08-24
+#### 2023-08-23
 - 18222 - [투에모스 문자열](https://www.acmicpc.net/problem/18222)
 - 1174 - [줄어드는 수](https://www.acmicpc.net/problem/1174)
 - 21758 - [꿀 따기](https://www.acmicpc.net/problem/21758)
+
+#### 2023-08-30
+- 21610 - [마법사 상어와 비바라기](https://www.acmicpc.net/problem/21610)
+- 20055 - [켄베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055)
+
